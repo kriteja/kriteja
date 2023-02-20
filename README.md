@@ -4,3 +4,5 @@ I’m **Krishna**, a Tech-Enthusiast and an aspiring Cloud Engineer <img src="ht
 
 🌱 I’m currently learning on <a href="https://aws.amazon.com/">AWS</a>, Linux, and DevOps with a couple of scripts & programming languages such as Python, JSON, BASH, etc. <br>
 📝 Furthermore, I'm looking forward to gain working-level knowledge GCP, & Azure.  
+
+![](https://komarev.com/ghpvc/?username=kriteja&color=grey&label=Profile+Views&style=flat)
