@@ -10,7 +10,7 @@ I’m **Krishna**, a Tech-Enthusiast, and a Cloud Engineer <img src="https://med
 - Python
 - HTML5
 - XML
-- Basic Perl
+- Perl
 
 ### Technical Skills
 - Linux
